@@ -1,0 +1,47 @@
+#color{
+    background-color: black ;
+    color: white;
+    border-radius: 10px;
+    display: block;
+    height: 70px;
+    width: 800px;
+    margin: auto;
+    margin-top:120px ;
+    padding-top: 20px;
+   font-size: 50px;
+   font-style: bold;
+}
+#colorname{
+    width:50px;
+    margin:auto;
+    display: inline-block;
+}
+#text{
+    margin-left:20px ;
+    padding-bottom: 40px;
+    text-align: left;
+}
+#button{
+    margin-bottom:20px ;
+    padding-top: 20px;
+}
+#btn{
+    width: 500px;
+    margin:auto;
+    height: 50px;
+    width: 150px;
+    border-radius:  10px ;
+    border-color: solid black;
+    display: grid;
+    place-items: center;
+    font-size: 30px;
+    font-style: bold;
+    color: black;
+
+   
+}
+#btn:hover{
+    background-color: black;
+    color: white;
+}
+
